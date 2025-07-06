@@ -2,7 +2,7 @@
 A simple calculator built using **Jetpack Compose** and **Kotlin**, capable of basic arithmetic operations (`+`, `-`, `*`, `/`) with a clean UI.
 
 ---
-
+ 
 ## ✨ Features
 - 📐 Basic arithmetic support: `+`, `-`, `*`, `/`
 - 📲 Jetpack Compose-based UI
