@@ -45,11 +45,29 @@ enableEdgeToEdge()
 -Run the app on emulator or physical Android device
 
  **Result:**
-
-![image](https://github.com/user-attachments/assets/a97f8bca-6ea7-4c13-8192-0cae081ab7f5)
+ <br>
+![image](https://github.com/user-attachments/assets/33c83f83-1b3e-42a3-bd51-c0ee93393cd3)
 
 
 **emulator output:**
+<br>
+![image](https://github.com/user-attachments/assets/a97f8bca-6ea7-4c13-8192-0cae081ab7f5)
 
-![image](https://github.com/user-attachments/assets/33c83f83-1b3e-42a3-bd51-c0ee93393cd3)
 
+---
+
+## ✅ Conclusion
+
+This simple calculator app demonstrates the power and simplicity of **Jetpack Compose** for building modern Android UIs. It supports basic arithmetic operations and evaluates expressions dynamically using a custom parser.
+
+The project also helped in understanding:
+- State handling with `remember` and `mutableStateOf`
+- UI composition with `Column`, `Row`, and `Box`
+- Handling click events and displaying real-time results
+- Structuring logic separately from UI components
+
+With this base, the app can be extended further with features like decimal support, scientific functions, expression history, and a more advanced expression parser with precedence rules.
+
+This project serves as a strong foundation for beginners getting started with **Compose** and modern Android development.
+
+---
