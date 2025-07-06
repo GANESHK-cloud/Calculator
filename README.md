@@ -45,12 +45,16 @@ enableEdgeToEdge()
 -Run the app on emulator or physical Android device
 
  **Result:**
+
  <br>
+ 
 ![image](https://github.com/user-attachments/assets/33c83f83-1b3e-42a3-bd51-c0ee93393cd3)
 
 
-**emulator output:**
+**Emulator output:**
+
 <br>
+
 ![image](https://github.com/user-attachments/assets/a97f8bca-6ea7-4c13-8192-0cae081ab7f5)
 
 
